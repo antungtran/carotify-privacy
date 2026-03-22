@@ -30,29 +30,3 @@ To provide its core features, the App requires:
 
 ## 3. Data Retention and Deletion
 The generated GUID and associated analytics data are stored as long as the App is installed. Since the GUID is not linked to your real-world identity or hardware, deleting the App typically removes the local association. However, you may contact us to request the removal of any data associated with your App GUID.
-
----
-
-## 4. Contact Us
-For any privacy-related questions, please contact:
-**Email:** [Your Support Email Here]
-
----
----
-
-## BẢN TIẾNG VIỆT (VIETNAMESE)
-
-**Cập nhật lần cuối: 22 tháng 03, 2026**
-
-### 1. Thu thập và Sử dụng Thông tin
-* **Mã định danh riêng của ứng dụng (GUID):** Ứng dụng tự tạo ra một mã định danh ngẫu nhiên (GUID) khi cài đặt lần đầu. Mã này **KHÔNG** liên quan đến mã máy (IMEI), Android ID hay bất kỳ thông tin phần cứng nào. Chúng tôi dùng mã này để quản lý phiên làm việc và thống kê lượt nghe.
-* **Dữ liệu sử dụng:** Thu thập số lượt phát nhạc và hành vi tương tác để cải tiến ứng dụng.
-* **Dữ liệu chẩn đoán:** Báo cáo lỗi ẩn danh để sửa lỗi kỹ thuật.
-
-### 2. Quyền truy cập
-* **Bộ nhớ:** Để đọc và phát nhạc từ máy.
-* **Trạng thái điện thoại:** Tạm dừng nhạc khi có cuộc gọi.
-* **Thông báo:** Điều khiển nhạc ở thanh thông báo.
-
-### 3. Liên hệ
-**Email:** [Email hỗ trợ của bạn tại đây]
