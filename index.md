@@ -30,3 +30,9 @@ To provide its core features, the App requires:
 
 ## 3. Data Retention and Deletion
 The generated GUID and associated analytics data are stored as long as the App is installed. Since the GUID is not linked to your real-world identity or hardware, deleting the App typically removes the local association. However, you may contact us to request the removal of any data associated with your App GUID.
+
+## 4. Support & Feedback
+If you encounter any issues, have suggestions, or need technical assistance, please feel free to reach out to us:
+
+* **Organization:** ATNDSOFT
+* **Email:** support.carotify@atndsoft.com
